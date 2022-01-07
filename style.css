@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+section{
+    display: flex;
+    width: 100%;
+    
+    text-decoration: none;
+    
+}
+.in{
+    text-align: center;
+    color: gray;
+}
+.anco{
+    background-color: linear-gradient(cyan blue);
+    color: black;
+    text-decoration: none;
+}
+.last{
+    text-align: center;
+}
+.problem{
+    width: 50%;
+    padding: 5%;
+}
+.problem img{
+    width: 90%;
+}
+.one{
+    color: cyan;
+}
